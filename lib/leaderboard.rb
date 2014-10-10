@@ -990,3 +990,6 @@ class Leaderboard
     page_size
   end
 end
+
+require 'leaderboard/competition_ranking_leaderboard'
+require 'leaderboard/tie_ranking_leaderboard'
